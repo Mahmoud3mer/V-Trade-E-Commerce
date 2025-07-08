@@ -8,8 +8,8 @@ import "react-toastify/dist/ReactToastify.css"; // Import the CSS for toastify
 import ProductDetails from "./Pages/ProductDetails";
 import Favorites from "./Pages/Favorites";
 import Products from "./Pages/Products";
-import Register from "./pages/Register/Register";
-import Login from "./pages/Login/Login";
+import Register from "./Pages/Register/Register";
+import Login from "./Pages/Login/Login";
 import Footer from "./component/Footer/Footer";
 import Navbar from "./component/Navbar/Navbar";
 import Home from "./Pages/Home";
