@@ -5,14 +5,14 @@ import "react-toastify/dist/ReactToastify.css"; // Import the CSS for toastify
 
 
 
-import ProductDetails from "./Pages/productDetails";
-import Favorites from "./Pages/favorites";
+import ProductDetails from "./Pages/ProductDetails";
+import Favorites from "./Pages/Favorites";
 import Products from "./Pages/Products";
 import Register from "./pages/Register/Register";
 import Login from "./pages/Login/Login";
 import Footer from "./component/Footer/Footer";
 import Navbar from "./component/Navbar/Navbar";
-import Home from "./Pages/home";
+import Home from "./Pages/Home";
 import Cart from "./Pages/Cart/Cart";
 import { ToastContainer } from "react-toastify";
 import Dashboard from "./Pages/dashboard/Dashboard";
